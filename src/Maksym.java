@@ -4,6 +4,8 @@ public class Maksym {
         System.out.println("Hi Maks");
 
         System.out.println("Maksym");
+
+        System.out.println("New changes");
     }
 
 
