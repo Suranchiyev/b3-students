@@ -6,4 +6,13 @@ public class Main {
             System.out.println("Java and Git are great");
         }
     }
+
+       public static String reverse(String str) {
+        String empty = "";
+        for (int i = str.length()-1; i >=0; i--) {
+            empty+=str.charAt(i);
+        }
+        return empty;
+    }
+
 }
